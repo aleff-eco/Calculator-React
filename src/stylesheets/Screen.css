@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&display=swap');
+
+.input {
+  height: 75px;
+  border-radius: 25px;
+  margin: 12px 12px 30px 12px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-weight: bold;
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-size: 50px;
+  background-color: whitesmoke;
+  color: black;
+  padding: 15px 30px 15px 15px;
+  /*Para el padding tambien se puede poner un padding especial para la parte que requeria nuestra atencion como: 
+    padding-right: 30px;
+    
+    Recuerda: Al momento de atribuir valores diferentes para cada borde recuerda que se cuenta como un reloj; Arriba, Derecha, Abajo, Izquierda. 
+     box-shadow: -1px 4px 1px 1px;
+    
+    
+    */
+
+}
